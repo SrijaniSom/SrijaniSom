@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @SrijaniSom,an enthusiastic and ignited heart from Kolkata,Bengal
-- 👀 I’m interested in developing, innovative programming and public speaking😍😍😍
-- 🌱 I’m currently learning Android Development with some experience in Java (as the pivotal programming language).
-- 💞️ I’m looking forward to learn new technicalities and consequently collaborate on developmental projects.
-- 📫 How to reach me ... srijanisom2002@gmail.com
+Hey,I am Srijani here!👋👋👋
+Wanna know about me?
 
-<!---
-SrijaniSom/SrijaniSom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨Dedicated ,consistent and passionate - these three terms undoubtedly define me.
+✨I have always had a strong affinity towards writing and content creation . I have prior experience as a professional content writer and copywriter.
+✨Coding is something I am consistently learning and growing in. I love to code in java but I am also comfortable with JavaScript.
+✨I am immensely interested in Web Development, especially frontend development.
+✨Yes ,android development is also there in the list. I am a learner in Android development using Java and Android studio.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijaniSom)](https://github.com/anuraghazra/github-readme-stats)
+
