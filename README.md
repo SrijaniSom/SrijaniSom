@@ -28,6 +28,27 @@
 
 Skills: **JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UNITY / C#**
 
+<p> <code><a target="_blank" rel="noopener noreferrer" href="https://img-premium.flaticon.com/png/512/2721/premium/2721670.png?token=exp=1631953556~hmac=ac9f6ff3599e7de2be5d75ab0cec9092"><img height="20" src="https://img-premium.flaticon.com/png/512/2721/premium/2721670.png?token=exp=1631953556~hmac=ac9f6ff3599e7de2be5d75ab0cec9092" style="max-width: 100%;"></a></code>
+  
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"><img height="20" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" style="max-width: 100%;"></a></code>
+  
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
+  
+<code><a target="_blank" rel="noopener noreferrer" href="https://icons.getbootstrap.com/assets/img/icons-hero.png"><img height="20" src="https://icons.getbootstrap.com/assets/img/icons-hero.png" style="max-width: 100%;"></a></code>
+  
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></a></code>
+  
+<code><a target="_blank" rel="noopener noreferrer" href="https://img-premium.flaticon.com/png/512/2374/premium/2374611.png?token=exp=1631954175~hmac=5b8fc5e83fac4fff95dd64d6d717315f"><img height="20" src="https://img-premium.flaticon.com/png/512/2374/premium/2374611.png?token=exp=1631954175~hmac=5b8fc5e83fac4fff95dd64d6d717315f" style="max-width: 100%;"></a></code>
+  
+<code><a target="_blank" rel="noopener noreferrer" href="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png"><img height="20" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" style="max-width: 100%;"></a></code>
+  
+<code><a target="_blank" rel="https://cdn-icons-png.flaticon.com/512/381/381704.png"><img height="20" src="https://cdn-icons-png.flaticon.com/512/381/381704.png" style="max-width: 100%;"></a></code>
+  
+
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width: 100%;"></a></code>
+  
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" style="max-width: 100%;"></a></code>
+ </p>
 
 
 
