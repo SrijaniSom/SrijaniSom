@@ -7,7 +7,7 @@
 Skills: JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UNITY / C#
 
 <div>
-  <div align="left">
+ 
 - 🔭 I’m currently working on *Content Creation* and experimenting with it.😊😜 
 - 🌱 I’m currently learning **React** and how to improve my frontend skills. 
 - 👯 I’m looking to collaborate on **Web Development** and **Native Android** projects.🤓🤓🤓 
@@ -15,9 +15,9 @@ Skills: JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UN
 - 📫 How to reach me: srijanisom2002@gmail.com 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I can sleep upto 14 hours continuously.😉😉😉 
-  </div>
   
-  <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" width="500" height="500"/>
+  
+  <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="center" width="500" height="500"/>
 
   
 </div>
