@@ -27,7 +27,7 @@
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/SrijaniSom)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/srijani-som-270476210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkiI0U8xESYC7%2FNfwOW14Fw%3D%3D/)  [<img src='https://cdn-icons-png.flaticon.com/512/1409/1409937.png' alt='twitter' height='40'>](https://twitter.com/@som_srijani) 
 
 Skills: **JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UNITY / C#**
-<div display="flex">
+
  <p display="flex">
  <code><a target="_blank" rel="noopener noreferrer" href="https://img-premium.flaticon.com/png/512/2721/premium/2721670.png?token=exp=1631953556~hmac=ac9f6ff3599e7de2be5d75ab0cec9092"><img height="20" src="https://img-premium.flaticon.com/png/512/2721/premium/2721670.png?token=exp=1631953556~hmac=ac9f6ff3599e7de2be5d75ab0cec9092" style="max-width: 100%;"></a></code>
   
@@ -49,8 +49,8 @@ Skills: **JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / 
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width: 100%;"></a></code>
   
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" style="max-width: 100%;"></a></code>
- </p>
-</div>
+</p>
+
 
 
  <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="center" width="300" height="300" margin-top="20"/>
