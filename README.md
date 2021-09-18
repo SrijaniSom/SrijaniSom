@@ -2,7 +2,8 @@
 #### Java Coder| Learning Android and Web development | Content Creator | Copywriter 
 ![Java Coder| Learning Android and Web development | Content Creator | Copywriter ](https://media-exp1.licdn.com/dms/image/C5616AQG0jYHhMuNKxg/profile-displaybackgroundimage-shrink_350_1400/0/1628922898560?e=1637193600&v=beta&t=q5Rvjad0I3oDujS5bjw56ohdScPJpgHdH14qUTM2sJw)
 
-✨Dedicated ,consistent and passionate - these three terms undoubtedly define me. ✨I have always had a strong affinity towards writing and content creation . I have prior experience as a professional content writer and copywriter. ✨Coding is something I am consistently learning and growing in. I love to code in java but I am also comfortable with JavaScript. ✨I am immensely interested in Web Development, especially frontend development. ✨Yes ,android development is also there in the list. I am a learner in Android development using Java and Android studio.
+<p align="center"> ✨Dedicated ,consistent and passionate - these three terms undoubtedly define me. ✨I have always had a strong affinity towards writing and content creation . I have prior experience as a professional content writer and copywriter. ✨Coding is something I am consistently learning and growing in. I love to code in java but I am also comfortable with JavaScript. ✨I am immensely interested in Web Development, especially frontend development. ✨Yes ,android development is also there in the list. I am a learner in Android development using Java and Android studio. </p>
+
 
 Skills: JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UNITY / C#
 
