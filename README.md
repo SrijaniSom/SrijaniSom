@@ -15,7 +15,7 @@ Skills: JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UN
 - ⚡ Fun fact: I can sleep upto 14 hours continuously.😉😉😉 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SrijaniSom)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/srijani-som-270476210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkiI0U8xESYC7%2FNfwOW14Fw%3D%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@som_srijani)  
+[<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/SrijaniSom)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/srijani-som-270476210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkiI0U8xESYC7%2FNfwOW14Fw%3D%3D/)  [<img src='https://cdn-icons-png.flaticon.com/512/1409/1409937.png' alt='twitter' height='40'>](https://twitter.com/@som_srijani)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SrijaniSom)](https://github.com/ryo-ma/github-profile-trophy)
 
