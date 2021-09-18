@@ -7,7 +7,7 @@
 
 
 
-<div display="flex" flex-direction="row">
+<div>
  <p align="left">
   
 - 🔭 I’m currently working on *Content Creation* and experimenting with it.😊😜 
@@ -22,13 +22,9 @@
 
   <img src="https://camo.githubusercontent.com/47e358432b88d0ffdc582cfee1c637cfa07414d43dc78333d8b1da085f404dba/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a49675866346867624843654b69587076742f67697068792e676966" align="right" width="300" height="300"/>
 
-  
- 
-
-  
 </div>
 
- <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" width="300" height="300"/>
+ <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="center" width="300" height="300"/>
   
 
 
