@@ -5,7 +5,7 @@
 <p align="left"> ✨Dedicated ,consistent and passionate - these three terms undoubtedly define me. ✨I have always had a strong affinity towards writing and content creation . I have prior experience as a professional content writer and copywriter. ✨Coding is something I am consistently learning and growing in. I love to code in java but I am also comfortable with JavaScript. ✨I am immensely interested in Web Development, especially frontend development. ✨Yes ,android development is also there in the list. I am a learner in Android development using Java and Android studio. </p>
 
 
-Skills: JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UNITY / C#
+
 
 <div display="flex" flex-direction="row">
  <p align="left">
@@ -28,6 +28,7 @@ Skills: JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UN
 </div>
 
 
+Skills: JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UNITY / C#
 
 
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/SrijaniSom)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/srijani-som-270476210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkiI0U8xESYC7%2FNfwOW14Fw%3D%3D/)  [<img src='https://cdn-icons-png.flaticon.com/512/1409/1409937.png' alt='twitter' height='40'>](https://twitter.com/@som_srijani)  
