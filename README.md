@@ -6,6 +6,7 @@
 
 Skills: JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UNITY / C#
 
+
 - 🔭 I’m currently working on *Content Creation* and experimenting with it.😊😜 
 - 🌱 I’m currently learning **React** and how to improve my frontend skills. 
 - 👯 I’m looking to collaborate on **Web Development** and **Native Android** projects.🤓🤓🤓 
@@ -13,6 +14,8 @@ Skills: JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UN
 - 📫 How to reach me: srijanisom2002@gmail.com 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I can sleep upto 14 hours continuously.😉😉😉 
+
+<img src="https://i.gifer.com/JXA0.mp4" align="right" width="10rem" height="10rem"/>
 
 
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/SrijaniSom)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/srijani-som-270476210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkiI0U8xESYC7%2FNfwOW14Fw%3D%3D/)  [<img src='https://cdn-icons-png.flaticon.com/512/1409/1409937.png' alt='twitter' height='40'>](https://twitter.com/@som_srijani)  
