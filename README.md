@@ -28,7 +28,7 @@
 
 Skills: **JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UNITY / C#**
 <div display="flex">
- <p>
+ <p display="flex">
  <code><a target="_blank" rel="noopener noreferrer" href="https://img-premium.flaticon.com/png/512/2721/premium/2721670.png?token=exp=1631953556~hmac=ac9f6ff3599e7de2be5d75ab0cec9092"><img height="20" src="https://img-premium.flaticon.com/png/512/2721/premium/2721670.png?token=exp=1631953556~hmac=ac9f6ff3599e7de2be5d75ab0cec9092" style="max-width: 100%;"></a></code>
   
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"><img height="20" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" style="max-width: 100%;"></a></code>
@@ -49,7 +49,7 @@ Skills: **JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / 
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width: 100%;"></a></code>
   
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" style="max-width: 100%;"></a></code>
-
+ </p>
 </div>
 
 
