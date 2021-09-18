@@ -7,7 +7,7 @@
 
 Skills: JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UNITY / C#
 
-<div>
+<div display="flex" flex-direction="row">
  <p align="left">
   
 - 🔭 I’m currently working on *Content Creation* and experimenting with it.😊😜 
