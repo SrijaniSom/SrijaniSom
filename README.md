@@ -6,7 +6,8 @@
 
 Skills: JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UNITY / C#
 
-
+<div display="flex">
+  <div align="left">
 - 🔭 I’m currently working on *Content Creation* and experimenting with it.😊😜 
 - 🌱 I’m currently learning **React** and how to improve my frontend skills. 
 - 👯 I’m looking to collaborate on **Web Development** and **Native Android** projects.🤓🤓🤓 
@@ -14,8 +15,14 @@ Skills: JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UN
 - 📫 How to reach me: srijanisom2002@gmail.com 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I can sleep upto 14 hours continuously.😉😉😉 
+  </div>
+  
+  <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" width="500" height="500"/>
 
-<img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" width="500" height="500"/>
+  
+</div>
+
+
 
 
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/SrijaniSom)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/srijani-som-270476210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkiI0U8xESYC7%2FNfwOW14Fw%3D%3D/)  [<img src='https://cdn-icons-png.flaticon.com/512/1409/1409937.png' alt='twitter' height='40'>](https://twitter.com/@som_srijani)  
