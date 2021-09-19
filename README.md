@@ -54,12 +54,12 @@ Are you reading it till now? Then, **FOLLOW** my account.Let's connect and grow 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SrijaniSom)](https://github.com/ryo-ma/github-profile-trophy)
 
-**DO YOU I AM DOING GOOD??🤔🤔**
+**DO YOU THINK I AM DOING GOOD??🤔🤔**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijaniSom&show_icons=true&count_private=true)  
 
-**TRYING TOI BE CONSISTENT,BUT FAILING MISERABLY!! OPEN TO SUGGESTIONS.**
+**TRYING TO BE CONSISTENT BUT FAILING MISERABLY!! OPEN TO SUGGESTIONS.😁😊 **
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SrijaniSom)  
 
-
+So,this is me Srijani. It's nice to meet you.😁
