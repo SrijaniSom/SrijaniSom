@@ -16,7 +16,7 @@
 - 💬 Ask me about any tech related stuff.✌✌ 
 - 📫 How to reach me: srijanisom2002@gmail.com 
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I can sleep upto 14 hours continuously.😉😉😉 
+- ⚡ Fun fact: I can sleep upto 14 hours continuously.I speak a lot.Sometimes, I feel I can beat the politicians too.😉😉😉 
   
  </p> 
 
