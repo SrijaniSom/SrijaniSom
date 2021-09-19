@@ -42,9 +42,9 @@ Skills: **JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / 
 
 Are you reading it till now? Then, **FOLLOW** my account.Let's connect and grow as a community.I would love to see your work.
 
- <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="center" width="400" height="300" margin-top="20"/>
+ <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="center" width="450" height="300" margin-top="20"/>
   
-
+**CHECK OUT MY PRESENT GITHUB TROPHIES.**
 
 
  
@@ -54,7 +54,12 @@ Are you reading it till now? Then, **FOLLOW** my account.Let's connect and grow 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SrijaniSom)](https://github.com/ryo-ma/github-profile-trophy)
 
+**DO YOU I AM DOING GOOD??🤔🤔**
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijaniSom&show_icons=true&count_private=true)  
 
+**TRYING TOI BE CONSISTENT,BUT FAILING MISERABLY!! OPEN TO SUGGESTIONS.**
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SrijaniSom)  
+
 
