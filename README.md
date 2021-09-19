@@ -28,9 +28,9 @@
 
 Skills: **JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UNITY / C#**
 
-<p><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919854.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"><img height="20" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="20" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" style="max-width: 100%;"></a></code>
+<p><code><a target="_blank" rel="noopener noreferrer" href="https://cdn-icons-png.flaticon.com/512/919/919854.png"><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919854.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://cdn-icons-png.flaticon.com/512/888/888859.png"><img height="20" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://cdn-icons-png.flaticon.com/512/888/888847.png"><img height="20" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://cdn-icons-png.flaticon.com/512/919/919828.png"><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919828.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" style="max-width: 100%;"></a></code>
