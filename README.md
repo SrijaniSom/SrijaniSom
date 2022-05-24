@@ -1,4 +1,4 @@
-### Hi there 👋, I am Srijani here! 
+### Hey there 👋, I am Srijani here! 
 
 #### Java Coder| Learning Android and Web development | Content Creator | Copywriter 
 
