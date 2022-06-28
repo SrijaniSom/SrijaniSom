@@ -13,7 +13,7 @@
  <p align="left">
   
 - 🔭 I’m currently working on *Content Creation* and experimenting with it.😊😜 
-- 🌱 I’m currently learning **React** and how to improve my frontend skills. 
+- 🌱 I’m currently learning **React JS** and how to improve my frontend skills. 
 - 👯 I’m looking to collaborate on **Web Development** and **Native Android** projects.🤓🤓🤓 
 - 💬 Ask me about any tech related stuff.✌✌ 
 - 📫 How to reach me: srijanisom2002@gmail.com 
