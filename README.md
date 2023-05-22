@@ -58,7 +58,7 @@ Are you reading it till now? Then, **FOLLOW** my account.Let's connect and grow 
 
 **DO YOU THINK I AM DOING GOOD??🤔🤔**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijaniSom&show_icons=true&count_private=true)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 **TRYING TO BE CONSISTENT BUT FAILING MISERABLY!! OPEN TO SUGGESTIONS.😁😊 **
 
