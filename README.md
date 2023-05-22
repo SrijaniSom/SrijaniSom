@@ -60,8 +60,4 @@ Are you reading it till now? Then, **FOLLOW** my account.Let's connect and grow 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SrijaniSom&theme=dark)](https://git.io/streak-stats)
 
-**TRYING TO BE CONSISTENT BUT FAILING MISERABLY!! OPEN TO SUGGESTIONS.😁😊 **
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SrijaniSom)  
-
 So,this is me Srijani. It's nice to meet you.😁
