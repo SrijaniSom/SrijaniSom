@@ -59,5 +59,6 @@ Are you reading it till now? Then, **FOLLOW** my account.Let's connect and grow 
 **DO YOU THINK I AM DOING GOOD??🤔🤔**
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SrijaniSom&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijaniSoma&count_private=true)
 
 So,this is me Srijani. It's nice to meet you.😁
