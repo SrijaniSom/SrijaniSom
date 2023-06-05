@@ -54,7 +54,6 @@ Are you reading it till now? Then, **FOLLOW** my account.Let's connect and grow 
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SrijaniSom)](https://github.com/ryo-ma/github-profile-trophy)
 
 **DO YOU THINK I AM DOING GOOD??🤔🤔**
 
