@@ -54,10 +54,11 @@ Are you reading it till now? Then, **FOLLOW** my account.Let's connect and grow 
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SrijaniSom)](https://github.com/ryo-ma/github-profile-trophy)
 
 **DO YOU THINK I AM DOING GOOD??🤔🤔**
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SrijaniSom&theme=dark)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijaniSom&count_private=true)
+
 
 So,this is me Srijani. It's nice to meet you.😁
