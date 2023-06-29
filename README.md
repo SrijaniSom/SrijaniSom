@@ -1,6 +1,6 @@
 ### Hey there 👋, I am Srijani here! 
 
-#### Java Coder| Learning Android and Web development | Content Creator | Copywriter 
+#### Engineer Intern Casamed| Frontend Developer Intern NowPurchase | GFG-GGV Vice Chairperson | GDSC-GGV Community Lead | Btech @2024
 
 ![Yellow and Black Global Response Engineer LinkedIn Banner (1)](https://user-images.githubusercontent.com/81528176/169655432-16085991-3cb4-4652-882f-374c1d94b99a.png)
 
