@@ -1,4 +1,4 @@
-### Hey there 👋, I am Srijani here! 
+### Hey there 👋, This is Srijani here! 
 
 #### Engineer Intern Casamed| Frontend Developer Intern NowPurchase | GFG-GGV Vice Chairperson | GDSC-GGV Community Lead | Btech @2024
 
