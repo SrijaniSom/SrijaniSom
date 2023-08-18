@@ -28,7 +28,7 @@
 
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40' margin-right="18">](https://github.com/SrijaniSom)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'  margin-right="18" >](https://www.linkedin.com/in/srijani-som-270476210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkiI0U8xESYC7%2FNfwOW14Fw%3D%3D/)  [<img src='https://cdn-icons-png.flaticon.com/512/1409/1409937.png' alt='twitter' height='40'  margin-right="18">](https://twitter.com/@som_srijani) 
 
-Skills: **JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UNITY / FIREBASE / C#**
+Skills: **JAVA /HTML / CSS / JAVASCRIPT / BOOTSTRAP / REACT / ADNDROID STUDIO / UNITY / FIREBASE / C# / FLUTTER /DART**
 
 <p><code><a target="_blank" rel="noopener noreferrer" href="https://cdn-icons-png.flaticon.com/512/919/919854.png"><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919854.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://cdn-icons-png.flaticon.com/512/888/888859.png"><img height="20" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" style="max-width: 100%;"></a></code>
